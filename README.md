@@ -51,7 +51,7 @@ python3 setup.py install
 
 ![image](https://user-images.githubusercontent.com/57125431/122719663-2270bc00-d28c-11eb-9b52-03bdbb137099.png)
 
-**Step 1 :** visit https://wisdomdemo.herokuapp.com/main and select credit card demo.
+**Step 1 :** visit https://wisdomdemo.herokuapp.com and select credit card demo.
 > NOTE : If https://wisdomdemo.herokuapp.com/checkformdatarender crashes then please **refresh** the page, there is some unknown bug in heroku deployment that does not happen in local execution.
 
 
